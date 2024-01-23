@@ -108,7 +108,7 @@ class Task2 extends StatelessWidget {
                 SizedBox(height: 5,),
                 Text(promtext,style: TextStyle(color: Colors.white),),
                 SizedBox(height: 5,),
-                Text(users,style: TextStyle(color: Colors.white),),
+                
               ],
             ),
           )
