@@ -11,6 +11,6 @@ https://github.com/vamsikandula03/internassignment/assets/87384337/463703b7-a9a8
 
 ## application
 1. there are no trending tasks so no task is shown if we change it in jon file as isTrending to true we can see the trending task
-2. onlu kuku app offer details are given so only taht link is active
-3. gave a pagelayou for myoffers upcoming gift and all offers
-4. 
+2. onlu kuku app offer details are given so only that link is active
+3. gave a pageview for myoffers ,upcoming, gift and all offers
+
